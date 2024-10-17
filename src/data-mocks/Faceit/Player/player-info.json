@@ -1,0 +1,94 @@
+{
+  "template": {
+    "items": [],
+    "start": 0,
+    "end": 20
+  },
+
+  "real": {
+    "player_id": "ca4798e4-28a6-4228-9901-d4501498034d",
+    "nickname": "React1237",
+    "avatar": "https://distribution.faceit-cdn.net/images/565b5795-ee81-4f7b-9343-86ce79dfbc31.jpeg",
+    "country": "us",
+    "cover_image": "",
+    "platforms": {
+      "steam": "STEAM_0:0:136458026"
+    },
+    "games": {
+      "csgo": {
+        "region": "US",
+        "game_player_id": "76561198233181780",
+        "skill_level": 2,
+        "faceit_elo": 868,
+        "game_player_name": "React™",
+        "skill_level_label": "",
+        "regions": {},
+        "game_profile_id": ""
+      },
+      "cs2": {
+        "region": "NA",
+        "game_player_id": "76561198233181780",
+        "skill_level": 9,
+        "faceit_elo": 1832,
+        "game_player_name": "React™",
+        "skill_level_label": "",
+        "regions": {},
+        "game_profile_id": ""
+      }
+    },
+    "settings": {
+      "language": "en"
+    },
+    "friends_ids": [
+      "63399cbd-14c7-4d0c-a111-064398cb6e5c",
+      "85215800-f735-4571-87d0-2a0b63e02fbe",
+      "b9dd5a60-37d5-4d2e-a22d-25e04e65de4c",
+      "a15b4f79-7853-46b5-85b3-6825db1d3809",
+      "3087ebf4-90b1-404e-8aaa-0351c1c81a0a",
+      "29407c89-e21c-4cdf-9b03-a48eb2415569",
+      "61377870-5ba5-4eef-bfdf-e39c8c313dec",
+      "bf459338-e6dd-48e4-9a8b-2843666803e1",
+      "f9c09615-3c38-4adc-8fc6-50574b67910a",
+      "59323ba8-abb5-46c9-8ec8-ece465b0bed9",
+      "799321d4-b3a1-4e27-ad6e-9efb6ed6be6a",
+      "313a0ef9-69c4-49e4-a338-b40da828adc4",
+      "a9f47905-0fbc-4f91-9e0a-285882b31393",
+      "e4e6286f-abcf-4a4f-9963-28d29619ec2f",
+      "cb404c6e-6582-4b2f-8b0f-2e99afd6a299",
+      "05282eee-6ccb-436b-a329-8ef74d14d963",
+      "83eeef42-78f3-4266-a707-0895f47d1913",
+      "154795f1-7a5d-4a88-91e5-f78edb40dc6a",
+      "2de19e18-a19b-4f9b-b233-c06088158b53",
+      "446c32bb-ccd8-4ba5-a746-14172f2071d8",
+      "766c0226-9373-4a99-ab4b-4e673d0cdb14",
+      "3a2d2a71-530a-4102-81d1-c5bfa144d7b9",
+      "9f91adf4-3497-42c6-b21e-76adace18158",
+      "981b9283-c40c-42bf-a38a-ddac83d97187",
+      "dd37a1ab-ac87-467c-84f2-7218fdaccf2e",
+      "ea16f392-c7ee-4615-a282-385081112b57",
+      "ce5cd56e-8e86-4706-b3e4-eda2747205ac",
+      "6eeb16b6-e6c6-4795-8200-b8c599b0feb9",
+      "0becf125-f536-4c3e-8b1f-3b15ad879889",
+      "9a66c780-44af-48ac-a03c-28c587e5e016",
+      "133d4116-c91b-44e9-8fad-0b28ff082db1",
+      "2911eb7a-3ff8-4011-b51b-7b861a3a693c",
+      "c9bb38b6-5066-4025-83a5-a8338b9fa34c",
+      "d6b3c180-abfc-40ee-9284-88c71194ecef",
+      "02ddf289-4dea-432f-b52c-ba022677b0c1",
+      "ebbe2063-e6a3-421e-a048-67a1e84f8617",
+      "ac376fdf-a91d-47df-bcda-5374be493eea",
+      "d9d8625b-5662-41ef-a5a3-75df5a25f8bc",
+      "42c3905f-5623-4c4f-8c91-318a8ab3a15c"
+    ],
+    "new_steam_id": "[U:1:272916052]",
+    "steam_id_64": "76561198233181780",
+    "steam_nickname": "React™",
+    "memberships": ["esea"],
+    "faceit_url": "https://www.faceit.com/{lang}/players/React1237",
+    "membership_type": "",
+    "cover_featured_image": "",
+    "infractions": {},
+    "verified": false,
+    "activated_at": "2023-04-25T01:34:50.184Z"
+  }
+}

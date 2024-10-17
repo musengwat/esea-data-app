@@ -1,0 +1,180 @@
+{
+  "match_id": "1-2aba632c-d848-4c8a-9bd3-981a1e19826f",
+  "version": 2,
+  "game": "cs2",
+  "region": "NA",
+  "competition_id": "87930816-91d1-43e1-a731-24d5aebf1aa8",
+  "competition_type": "championship",
+  "competition_name": "ESEA S51 NA Intermediate Central - Regular Season",
+  "organizer_id": "08b06cfc-74d0-454b-9a51-feda4b6b18da",
+  "teams": {
+    "faction1": {
+      "faction_id": "d0f67d54-c36d-4129-a995-8e83969d2099",
+      "leader": "e71262cd-2c55-4112-b32e-5951e2a78142",
+      "avatar": "https://distribution.faceit-cdn.net/images/c9fa35b0-117c-4b82-9693-fef3a351113b.jpeg",
+      "roster": [
+        {
+          "player_id": "e71262cd-2c55-4112-b32e-5951e2a78142",
+          "nickname": "iNSANEmayne",
+          "avatar": "https://distribution.faceit-cdn.net/images/e76acab5-e38c-445a-bd29-58e680283aed.jpeg",
+          "membership": "premium",
+          "game_player_id": "76561197961776941",
+          "game_player_name": "iNSANE",
+          "game_skill_level": 10,
+          "anticheat_required": true
+        },
+        {
+          "player_id": "3a023fbb-89ad-48a4-b4b9-67bae97976e8",
+          "nickname": "Mazda_M8",
+          "avatar": "https://distribution.faceit-cdn.net/images/8816144c-991b-40fd-85c1-1692f2cfe3ea.jpeg",
+          "membership": "esea",
+          "game_player_id": "76561198438829289",
+          "game_player_name": "Maz",
+          "game_skill_level": 6,
+          "anticheat_required": true
+        },
+        {
+          "player_id": "aaeb52d7-43df-4615-9186-c1f77aeafd5a",
+          "nickname": "sNada",
+          "avatar": "https://assets.faceit-cdn.net/avatars/aaeb52d7-43df-4615-9186-c1f77aeafd5a_1550972652060.jpg",
+          "membership": "esea",
+          "game_player_id": "76561197974990601",
+          "game_player_name": "sNada",
+          "game_skill_level": 9,
+          "anticheat_required": true
+        },
+        {
+          "player_id": "0de613e1-0907-41a4-93cd-888df455f2be",
+          "nickname": "Cowpoke-JFK",
+          "avatar": "https://assets.faceit-cdn.net/avatars/0de613e1-0907-41a4-93cd-888df455f2be_1576949755322.jpg",
+          "membership": "esea",
+          "game_player_id": "76561198082102779",
+          "game_player_name": "Cowpoke Kid",
+          "game_skill_level": 10,
+          "anticheat_required": true
+        },
+        {
+          "player_id": "dc13b6f4-d187-4530-bb42-1ba1baaef200",
+          "nickname": "Sorbear",
+          "avatar": "https://assets.faceit-cdn.net/avatars/dc13b6f4-d187-4530-bb42-1ba1baaef200_1550672372596.png",
+          "membership": "esea",
+          "game_player_id": "76561198025086296",
+          "game_player_name": "sorbear-JFK",
+          "game_skill_level": 9,
+          "anticheat_required": true
+        },
+        {
+          "player_id": "f3ab236a-bd9e-479f-9542-6e1d6a34b7f6",
+          "nickname": "TubbyToucan",
+          "avatar": "https://assets.faceit-cdn.net/avatars/f3ab236a-bd9e-479f-9542-6e1d6a34b7f6_1619750058614.jpg",
+          "membership": "esea",
+          "game_player_id": "76561198143822981",
+          "game_player_name": "Tubby Toucan",
+          "game_skill_level": 6,
+          "anticheat_required": true
+        },
+        {
+          "player_id": "04704241-5e6c-41bb-bed7-974ed075c064",
+          "nickname": "VinSha_",
+          "avatar": "https://distribution.faceit-cdn.net/images/842b8903-f000-47eb-aa82-119d415aa7ec.jpeg",
+          "membership": "premium",
+          "game_player_id": "76561198058430182",
+          "game_player_name": "VinSha",
+          "game_skill_level": 8,
+          "anticheat_required": true
+        }
+      ],
+      "substituted": false,
+      "name": "MidnightSociety",
+      "type": "premade"
+    },
+    "faction2": {
+      "faction_id": "4423aba6-adb2-41e7-8b1a-5d21a576ac6a",
+      "leader": "ea16f392-c7ee-4615-a282-385081112b57",
+      "avatar": "https://distribution.faceit-cdn.net/images/afa23375-0398-4530-ab9d-7ced84644e90.jpeg",
+      "roster": [
+        {
+          "player_id": "ea16f392-c7ee-4615-a282-385081112b57",
+          "nickname": "spencer---",
+          "avatar": "https://distribution.faceit-cdn.net/images/b4b54c8d-5f5a-474c-a17e-93dedaa5b8e9.jpeg",
+          "membership": "esea",
+          "game_player_id": "76561198042068875",
+          "game_player_name": "Spencer",
+          "game_skill_level": 8,
+          "anticheat_required": true
+        },
+        {
+          "player_id": "133d4116-c91b-44e9-8fad-0b28ff082db1",
+          "nickname": "Cloaks",
+          "avatar": "https://assets.faceit-cdn.net/avatars/133d4116-c91b-44e9-8fad-0b28ff082db1_1550832774357.jpg",
+          "membership": "premium",
+          "game_player_id": "76561198060898903",
+          "game_player_name": "Cloaks",
+          "game_skill_level": 10,
+          "anticheat_required": true
+        },
+        {
+          "player_id": "ce5cd56e-8e86-4706-b3e4-eda2747205ac",
+          "nickname": "BigColey",
+          "avatar": "https://distribution.faceit-cdn.net/images/1366255c-6d69-448e-8b43-27540ecf1942.jpeg",
+          "membership": "esea",
+          "game_player_id": "76561198068369484",
+          "game_player_name": "Cole",
+          "game_skill_level": 5,
+          "anticheat_required": true
+        },
+        {
+          "player_id": "656c9f31-5a03-40f0-826c-de1a7653bca7",
+          "nickname": "--Oak--",
+          "avatar": "https://distribution.faceit-cdn.net/images/45e49eab-6e90-45bc-9d39-35705c7c33ec.jpeg",
+          "membership": "esea",
+          "game_player_id": "76561198106173845",
+          "game_player_name": "-Oak-",
+          "game_skill_level": 10,
+          "anticheat_required": true
+        },
+        {
+          "player_id": "313a0ef9-69c4-49e4-a338-b40da828adc4",
+          "nickname": "_Yin",
+          "avatar": "https://distribution.faceit-cdn.net/images/52eead67-1a0a-45c9-a98b-7bafcc65c0fd.jpeg",
+          "membership": "esea",
+          "game_player_id": "76561198354107422",
+          "game_player_name": "Yin",
+          "game_skill_level": 10,
+          "anticheat_required": true
+        },
+        {
+          "player_id": "e4e6286f-abcf-4a4f-9963-28d29619ec2f",
+          "nickname": "SixSided-",
+          "avatar": "https://distribution.faceit-cdn.net/images/2fc64026-30c4-421a-b480-4b22691907c8.jpeg",
+          "membership": "premium",
+          "game_player_id": "76561198117400156",
+          "game_player_name": "sixsided",
+          "game_skill_level": 9,
+          "anticheat_required": true
+        },
+        {
+          "player_id": "6eeb16b6-e6c6-4795-8200-b8c599b0feb9",
+          "nickname": "mynameQUESO",
+          "avatar": "https://distribution.faceit-cdn.net/images/535dd746-99cd-4498-8882-c7897dcad90f.jpeg",
+          "membership": "esea",
+          "game_player_id": "76561198289200256",
+          "game_player_name": "mynameQUESO",
+          "game_skill_level": 7,
+          "anticheat_required": true
+        }
+      ],
+      "substituted": false,
+      "name": "Tax Evaders",
+      "type": "premade"
+    }
+  },
+  "calculate_elo": false,
+  "scheduled_at": 1729040400,
+  "chat_room_id": "match-1-2aba632c-d848-4c8a-9bd3-981a1e19826f",
+  "best_of": 1,
+  "status": "SCHEDULED",
+  "round": 3,
+  "group": 1,
+  "faceit_url": "https://www.faceit.com/{lang}/cs2/room/1-2aba632c-d848-4c8a-9bd3-981a1e19826f"
+}

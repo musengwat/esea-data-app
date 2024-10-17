@@ -1,0 +1,150 @@
+{
+  "match_id": "1-211072bd-5962-45f4-aa7a-e55d2c78a9e0",
+  "version": 2,
+  "game": "cs2",
+  "region": "NA",
+  "competition_id": "87930816-91d1-43e1-a731-24d5aebf1aa8",
+  "competition_type": "championship",
+  "competition_name": "ESEA S51 NA Intermediate Central - Regular Season",
+  "organizer_id": "08b06cfc-74d0-454b-9a51-feda4b6b18da",
+  "teams": {
+    "faction1": {
+      "faction_id": "4423aba6-adb2-41e7-8b1a-5d21a576ac6a",
+      "leader": "ea16f392-c7ee-4615-a282-385081112b57",
+      "avatar": "https://distribution.faceit-cdn.net/images/afa23375-0398-4530-ab9d-7ced84644e90.jpeg",
+      "roster": [
+        {
+          "player_id": "ea16f392-c7ee-4615-a282-385081112b57",
+          "nickname": "spencer---",
+          "avatar": "https://distribution.faceit-cdn.net/images/b4b54c8d-5f5a-474c-a17e-93dedaa5b8e9.jpeg",
+          "membership": "esea",
+          "game_player_id": "76561198042068875",
+          "game_player_name": "Spencer",
+          "game_skill_level": 8,
+          "anticheat_required": true
+        },
+        {
+          "player_id": "133d4116-c91b-44e9-8fad-0b28ff082db1",
+          "nickname": "Cloaks",
+          "avatar": "https://assets.faceit-cdn.net/avatars/133d4116-c91b-44e9-8fad-0b28ff082db1_1550832774357.jpg",
+          "membership": "premium",
+          "game_player_id": "76561198060898903",
+          "game_player_name": "Cloaks",
+          "game_skill_level": 10,
+          "anticheat_required": true
+        },
+        {
+          "player_id": "ce5cd56e-8e86-4706-b3e4-eda2747205ac",
+          "nickname": "BigColey",
+          "avatar": "https://distribution.faceit-cdn.net/images/1366255c-6d69-448e-8b43-27540ecf1942.jpeg",
+          "membership": "esea",
+          "game_player_id": "76561198068369484",
+          "game_player_name": "Cole",
+          "game_skill_level": 5,
+          "anticheat_required": true
+        },
+        {
+          "player_id": "656c9f31-5a03-40f0-826c-de1a7653bca7",
+          "nickname": "--Oak--",
+          "avatar": "https://distribution.faceit-cdn.net/images/45e49eab-6e90-45bc-9d39-35705c7c33ec.jpeg",
+          "membership": "esea",
+          "game_player_id": "76561198106173845",
+          "game_player_name": "-Oak-",
+          "game_skill_level": 10,
+          "anticheat_required": true
+        },
+        {
+          "player_id": "313a0ef9-69c4-49e4-a338-b40da828adc4",
+          "nickname": "_Yin",
+          "avatar": "https://distribution.faceit-cdn.net/images/52eead67-1a0a-45c9-a98b-7bafcc65c0fd.jpeg",
+          "membership": "esea",
+          "game_player_id": "76561198354107422",
+          "game_player_name": "Yin",
+          "game_skill_level": 10,
+          "anticheat_required": true
+        },
+        {
+          "player_id": "e4e6286f-abcf-4a4f-9963-28d29619ec2f",
+          "nickname": "SixSided-",
+          "avatar": "https://distribution.faceit-cdn.net/images/2fc64026-30c4-421a-b480-4b22691907c8.jpeg",
+          "membership": "premium",
+          "game_player_id": "76561198117400156",
+          "game_player_name": "sixsided",
+          "game_skill_level": 9,
+          "anticheat_required": true
+        },
+        {
+          "player_id": "6eeb16b6-e6c6-4795-8200-b8c599b0feb9",
+          "nickname": "mynameQUESO",
+          "avatar": "https://distribution.faceit-cdn.net/images/535dd746-99cd-4498-8882-c7897dcad90f.jpeg",
+          "membership": "esea",
+          "game_player_id": "76561198289200256",
+          "game_player_name": "mynameQUESO",
+          "game_skill_level": 7,
+          "anticheat_required": true
+        }
+      ],
+      "substituted": false,
+      "name": "Tax Evaders",
+      "type": "premade"
+    },
+    "faction2": {
+      "faction_id": "cb72791e-75c5-4081-a451-1c801ffe37c0",
+      "leader": "f1d86460-12e8-42ca-8fc0-54d75c3ffa84",
+      "avatar": "https://distribution.faceit-cdn.net/images/05d4faae-4201-48cb-bd65-d3b50a42033b.jpeg",
+      "roster": [
+        {
+          "player_id": "f1d86460-12e8-42ca-8fc0-54d75c3ffa84",
+          "nickname": "devintsong",
+          "avatar": "https://distribution.faceit-cdn.net/images/47e39ea7-39b1-4743-be08-685f2eff27e4.jpeg",
+          "membership": "esea",
+          "game_player_id": "76561198107855989",
+          "game_player_name": "smc",
+          "game_skill_level": 10,
+          "anticheat_required": true
+        },
+        {
+          "player_id": "a1b52fb0-1eb4-4eb4-82ee-35a85a0c9179",
+          "nickname": "Hum_b1e",
+          "avatar": "https://distribution.faceit-cdn.net/images/a82fd3f4-2fe7-4208-b3da-54eeab28faf0.jpeg",
+          "membership": "esea",
+          "game_player_id": "76561198185890405",
+          "game_player_name": "Moriarty",
+          "game_skill_level": 9,
+          "anticheat_required": true
+        },
+        {
+          "player_id": "3d983cac-7ec0-4e45-bf98-06f28b79acfa",
+          "nickname": "ThroatGoat11",
+          "avatar": "",
+          "membership": "esea",
+          "game_player_id": "76561198877133122",
+          "game_player_name": "Born Wid IT",
+          "game_skill_level": 10,
+          "anticheat_required": true
+        },
+        {
+          "player_id": "4754208b-1c2e-4db9-a44e-c229aa960448",
+          "nickname": "rephoteh",
+          "avatar": "https://distribution.faceit-cdn.net/images/1c6a5a7d-1c5e-4d30-843c-6f115cb71a3e.jpeg",
+          "membership": "esea",
+          "game_player_id": "76561198072778885",
+          "game_player_name": "КоМски -A-",
+          "game_skill_level": 10,
+          "anticheat_required": true
+        }
+      ],
+      "substituted": false,
+      "name": "Si9dan",
+      "type": "premade"
+    }
+  },
+  "calculate_elo": false,
+  "scheduled_at": 1729213200,
+  "chat_room_id": "match-1-211072bd-5962-45f4-aa7a-e55d2c78a9e0",
+  "best_of": 1,
+  "status": "SCHEDULED",
+  "round": 4,
+  "group": 1,
+  "faceit_url": "https://www.faceit.com/{lang}/cs2/room/1-211072bd-5962-45f4-aa7a-e55d2c78a9e0"
+}

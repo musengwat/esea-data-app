@@ -1,0 +1,82 @@
+{
+  "real": {
+    "items": [],
+    "start": 0,
+    "end": 20
+  },
+
+  "template": {
+    "team_id": "4423aba6-adb2-41e7-8b1a-5d21a576ac6a",
+    "nickname": "TAX",
+    "name": "Tax Evaders",
+    "description": "Dodging flashes and Evading taxes",
+    "avatar": "https://distribution.faceit-cdn.net/images/afa23375-0398-4530-ab9d-7ced84644e90.jpeg",
+    "game": "cs2",
+    "team_type": "premade",
+    "members": [
+      {
+        "user_id": "313a0ef9-69c4-49e4-a338-b40da828adc4",
+        "nickname": "_Yin",
+        "avatar": "https://distribution.faceit-cdn.net/images/52eead67-1a0a-45c9-a98b-7bafcc65c0fd.jpeg",
+        "country": "us",
+        "memberships": ["esea"],
+        "faceit_url": "https://www.faceit.com/{lang}/players/_Yin"
+      },
+      {
+        "user_id": "133d4116-c91b-44e9-8fad-0b28ff082db1",
+        "nickname": "Cloaks",
+        "avatar": "https://assets.faceit-cdn.net/avatars/133d4116-c91b-44e9-8fad-0b28ff082db1_1550832774357.jpg",
+        "country": "us",
+        "memberships": ["premium", "esea"],
+        "faceit_url": "https://www.faceit.com/{lang}/players/Cloaks"
+      },
+      {
+        "user_id": "656c9f31-5a03-40f0-826c-de1a7653bca7",
+        "nickname": "--Oak--",
+        "avatar": "https://distribution.faceit-cdn.net/images/45e49eab-6e90-45bc-9d39-35705c7c33ec.jpeg",
+        "country": "us",
+        "memberships": ["esea"],
+        "faceit_url": "https://www.faceit.com/{lang}/players/--Oak--"
+      },
+      {
+        "user_id": "ea16f392-c7ee-4615-a282-385081112b57",
+        "nickname": "spencer---",
+        "avatar": "https://distribution.faceit-cdn.net/images/b4b54c8d-5f5a-474c-a17e-93dedaa5b8e9.jpeg",
+        "country": "us",
+        "memberships": ["esea"],
+        "faceit_url": "https://www.faceit.com/{lang}/players/spencer---"
+      },
+      {
+        "user_id": "ce5cd56e-8e86-4706-b3e4-eda2747205ac",
+        "nickname": "BigColey",
+        "avatar": "https://distribution.faceit-cdn.net/images/1366255c-6d69-448e-8b43-27540ecf1942.jpeg",
+        "country": "us",
+        "memberships": ["esea"],
+        "faceit_url": "https://www.faceit.com/{lang}/players/BigColey"
+      },
+      {
+        "user_id": "6eeb16b6-e6c6-4795-8200-b8c599b0feb9",
+        "nickname": "mynameQUESO",
+        "avatar": "https://distribution.faceit-cdn.net/images/535dd746-99cd-4498-8882-c7897dcad90f.jpeg",
+        "country": "us",
+        "memberships": ["esea"],
+        "faceit_url": "https://www.faceit.com/{lang}/players/mynameQUESO"
+      },
+      {
+        "user_id": "e4e6286f-abcf-4a4f-9963-28d29619ec2f",
+        "nickname": "SixSided-",
+        "avatar": "https://distribution.faceit-cdn.net/images/2fc64026-30c4-421a-b480-4b22691907c8.jpeg",
+        "country": "us",
+        "memberships": ["premium", "esea"],
+        "faceit_url": "https://www.faceit.com/{lang}/players/SixSided-"
+      }
+    ],
+    "leader": "ea16f392-c7ee-4615-a282-385081112b57",
+    "website": "https://www.irs.gov/",
+    "facebook": "https://www.facebook.com/IRS/",
+    "twitter": "https://twitter.com/IRS_CI",
+    "youtube": "https://www.youtube.com/@irsvideos",
+    "chat_room_id": "team-4423aba6-adb2-41e7-8b1a-5d21a576ac6a",
+    "faceit_url": "https://www.faceit.com/{lang}/teams/4423aba6-adb2-41e7-8b1a-5d21a576ac6a"
+  }
+}

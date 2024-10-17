@@ -1,0 +1,103 @@
+{
+  "payload": {
+    "items": [
+      {
+        "factions": [
+          {
+            "id": "1705a5b9-4271-4237-826f-0186eb36c32c",
+            "number": 1
+          },
+          {
+            "id": "4423aba6-adb2-41e7-8b1a-5d21a576ac6a",
+            "number": 2
+          }
+        ],
+        "winner": "4423aba6-adb2-41e7-8b1a-5d21a576ac6a",
+        "totalFactions": 2,
+        "status": "finished",
+        "origin": {
+          "id": "1-151f9366-9330-40d5-b7b9-64361db45efa",
+          "state": "FINISHED",
+          "schedule": 1728435600000,
+          "startedAt": 1728436272003,
+          "finishedAt": 1728438935283,
+          "round": 1
+        },
+        "championshipId": "87930816-91d1-43e1-a731-24d5aebf1aa8",
+        "group": 1,
+        "round": 1
+      },
+      {
+        "factions": [
+          {
+            "id": "4423aba6-adb2-41e7-8b1a-5d21a576ac6a",
+            "number": 2
+          },
+          {
+            "id": "d0f67d54-c36d-4129-a995-8e83969d2099",
+            "number": 1
+          }
+        ],
+        "totalFactions": 2,
+        "status": "created",
+        "origin": {
+          "id": "1-2aba632c-d848-4c8a-9bd3-981a1e19826f",
+          "state": "SCHEDULED",
+          "schedule": 1729040400000
+        },
+        "championshipId": "87930816-91d1-43e1-a731-24d5aebf1aa8",
+        "group": 1,
+        "round": 3
+      },
+      {
+        "factions": [
+          {
+            "id": "cb72791e-75c5-4081-a451-1c801ffe37c0",
+            "number": 2
+          },
+          {
+            "id": "4423aba6-adb2-41e7-8b1a-5d21a576ac6a",
+            "number": 1
+          }
+        ],
+        "totalFactions": 2,
+        "status": "created",
+        "origin": {
+          "id": "1-211072bd-5962-45f4-aa7a-e55d2c78a9e0",
+          "state": "SCHEDULED",
+          "schedule": 1729213200000
+        },
+        "championshipId": "87930816-91d1-43e1-a731-24d5aebf1aa8",
+        "group": 1,
+        "round": 4
+      },
+      {
+        "factions": [
+          {
+            "id": "4423aba6-adb2-41e7-8b1a-5d21a576ac6a",
+            "number": 1
+          },
+          {
+            "id": "ddab3283-da35-47ec-82ee-8789189bf16e",
+            "number": 2
+          }
+        ],
+        "totalFactions": 2,
+        "status": "created",
+        "origin": {
+          "id": "1-be0fe61a-c54d-4442-ac51-983ef5f366c3",
+          "state": "SCHEDULED",
+          "schedule": 1729299600000
+        },
+        "championshipId": "87930816-91d1-43e1-a731-24d5aebf1aa8",
+        "group": 1,
+        "round": 2
+      }
+    ],
+    "start": 0,
+    "end": 20
+  },
+  "env": "prod",
+  "version": "1.444.2",
+  "time": 1728930469798
+}
