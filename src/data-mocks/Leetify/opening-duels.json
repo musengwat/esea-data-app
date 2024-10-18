@@ -1,0 +1,434 @@
+[
+  {
+    "tick": 8332,
+    "round": 1,
+    "gameId": "32c50f03-b227-4395-9320-4118435cca67",
+    "traded": false,
+    "roundTime": 19,
+    "victimName": "--Oak--",
+    "attackerName": "VinSha_",
+    "attackerWeapon": {
+      "itemName": "Glock-18",
+      "className": "weapon_glock",
+      "itemValue": 200
+    },
+    "victimSteam64Id": "76561198106173845",
+    "victimTeamNumber": 3,
+    "attackerSteam64Id": "76561198058430182",
+    "attackerTeamNumber": 2
+  },
+  {
+    "tick": 12818,
+    "round": 2,
+    "gameId": "32c50f03-b227-4395-9320-4118435cca67",
+    "traded": false,
+    "roundTime": 17,
+    "victimName": "spencer---",
+    "attackerName": "sNada",
+    "attackerWeapon": {
+      "itemName": "MAC-10",
+      "className": "weapon_mac10",
+      "itemValue": 1050
+    },
+    "victimSteam64Id": "76561198042068875",
+    "victimTeamNumber": 3,
+    "attackerSteam64Id": "76561197974990601",
+    "attackerTeamNumber": 2
+  },
+  {
+    "tick": 17756,
+    "round": 3,
+    "gameId": "32c50f03-b227-4395-9320-4118435cca67",
+    "traded": false,
+    "roundTime": 32,
+    "victimName": "spencer---",
+    "attackerName": "sNada",
+    "attackerWeapon": {
+      "itemName": "AK-47",
+      "className": "weapon_ak47",
+      "itemValue": 2700
+    },
+    "victimSteam64Id": "76561198042068875",
+    "victimTeamNumber": 3,
+    "attackerSteam64Id": "76561197974990601",
+    "attackerTeamNumber": 2
+  },
+  {
+    "tick": 25953,
+    "round": 4,
+    "gameId": "32c50f03-b227-4395-9320-4118435cca67",
+    "traded": false,
+    "roundTime": 32,
+    "victimName": "Mazda_M8",
+    "attackerName": "SixSided-",
+    "attackerWeapon": {
+      "itemName": "AK-47",
+      "className": "weapon_ak47",
+      "itemValue": 2700
+    },
+    "victimSteam64Id": "76561198438829289",
+    "victimTeamNumber": 2,
+    "attackerSteam64Id": "76561198117400156",
+    "attackerTeamNumber": 3
+  },
+  {
+    "tick": 33809,
+    "round": 5,
+    "gameId": "32c50f03-b227-4395-9320-4118435cca67",
+    "traded": true,
+    "roundTime": 24,
+    "victimName": "VinSha_",
+    "attackerName": "_Yin",
+    "attackerWeapon": {
+      "itemName": "AK-47",
+      "className": "weapon_ak47",
+      "itemValue": 2700
+    },
+    "victimSteam64Id": "76561198058430182",
+    "victimTeamNumber": 2,
+    "attackerSteam64Id": "76561198354107422",
+    "attackerTeamNumber": 3
+  },
+  {
+    "tick": 38582,
+    "round": 6,
+    "gameId": "32c50f03-b227-4395-9320-4118435cca67",
+    "traded": false,
+    "roundTime": 17,
+    "victimName": "Sorbear",
+    "attackerName": "SixSided-",
+    "attackerWeapon": {
+      "itemName": "AWP",
+      "className": "weapon_awp",
+      "itemValue": 4750
+    },
+    "victimSteam64Id": "76561198025086296",
+    "victimTeamNumber": 2,
+    "attackerSteam64Id": "76561198117400156",
+    "attackerTeamNumber": 3
+  },
+  {
+    "tick": 46941,
+    "round": 7,
+    "gameId": "32c50f03-b227-4395-9320-4118435cca67",
+    "traded": false,
+    "roundTime": 21,
+    "victimName": "Cloaks",
+    "attackerName": "Mazda_M8",
+    "attackerWeapon": {
+      "itemName": "Tec-9",
+      "className": "weapon_tec9",
+      "itemValue": 500
+    },
+    "victimSteam64Id": "76561198060898903",
+    "victimTeamNumber": 3,
+    "attackerSteam64Id": "76561198438829289",
+    "attackerTeamNumber": 2
+  },
+  {
+    "tick": 53853,
+    "round": 8,
+    "gameId": "32c50f03-b227-4395-9320-4118435cca67",
+    "traded": true,
+    "roundTime": 35,
+    "victimName": "_Yin",
+    "attackerName": "sNada",
+    "attackerWeapon": {
+      "itemName": "AK-47",
+      "className": "weapon_ak47",
+      "itemValue": 2700
+    },
+    "victimSteam64Id": "76561198354107422",
+    "victimTeamNumber": 3,
+    "attackerSteam64Id": "76561197974990601",
+    "attackerTeamNumber": 2
+  },
+  {
+    "tick": 64927,
+    "round": 9,
+    "gameId": "32c50f03-b227-4395-9320-4118435cca67",
+    "traded": false,
+    "roundTime": 21,
+    "victimName": "sNada",
+    "attackerName": "Cloaks",
+    "attackerWeapon": {
+      "itemName": "MP9",
+      "className": "weapon_mp9",
+      "itemValue": 1250
+    },
+    "victimSteam64Id": "76561197974990601",
+    "victimTeamNumber": 2,
+    "attackerSteam64Id": "76561198060898903",
+    "attackerTeamNumber": 3
+  },
+  {
+    "tick": 72681,
+    "round": 10,
+    "gameId": "32c50f03-b227-4395-9320-4118435cca67",
+    "traded": true,
+    "roundTime": 16,
+    "victimName": "--Oak--",
+    "attackerName": "Mazda_M8",
+    "attackerWeapon": {
+      "itemName": "AK-47",
+      "className": "weapon_ak47",
+      "itemValue": 2700
+    },
+    "victimSteam64Id": "76561198106173845",
+    "victimTeamNumber": 3,
+    "attackerSteam64Id": "76561198438829289",
+    "attackerTeamNumber": 2
+  },
+  {
+    "tick": 82253,
+    "round": 11,
+    "gameId": "32c50f03-b227-4395-9320-4118435cca67",
+    "traded": true,
+    "roundTime": 41,
+    "victimName": "_Yin",
+    "attackerName": "VinSha_",
+    "attackerWeapon": {
+      "itemName": "AK-47",
+      "className": "weapon_ak47",
+      "itemValue": 2700
+    },
+    "victimSteam64Id": "76561198354107422",
+    "victimTeamNumber": 3,
+    "attackerSteam64Id": "76561198058430182",
+    "attackerTeamNumber": 2
+  },
+  {
+    "tick": 87081,
+    "round": 12,
+    "gameId": "32c50f03-b227-4395-9320-4118435cca67",
+    "traded": false,
+    "roundTime": 19,
+    "victimName": "sNada",
+    "attackerName": "Cloaks",
+    "attackerWeapon": {
+      "itemName": "MP9",
+      "className": "weapon_mp9",
+      "itemValue": 1250
+    },
+    "victimSteam64Id": "76561197974990601",
+    "victimTeamNumber": 2,
+    "attackerSteam64Id": "76561198060898903",
+    "attackerTeamNumber": 3
+  },
+  {
+    "tick": 93355,
+    "round": 13,
+    "gameId": "32c50f03-b227-4395-9320-4118435cca67",
+    "traded": false,
+    "roundTime": 29,
+    "victimName": "Cloaks",
+    "attackerName": "sNada",
+    "attackerWeapon": {
+      "itemName": "USP-S",
+      "className": "weapon_usp_silencer",
+      "itemValue": 200
+    },
+    "victimSteam64Id": "76561198060898903",
+    "victimTeamNumber": 2,
+    "attackerSteam64Id": "76561197974990601",
+    "attackerTeamNumber": 3
+  },
+  {
+    "tick": 97379,
+    "round": 14,
+    "gameId": "32c50f03-b227-4395-9320-4118435cca67",
+    "traded": true,
+    "roundTime": 20,
+    "victimName": "VinSha_",
+    "attackerName": "Cloaks",
+    "attackerWeapon": {
+      "itemName": "Tec-9",
+      "className": "weapon_tec9",
+      "itemValue": 500
+    },
+    "victimSteam64Id": "76561198058430182",
+    "victimTeamNumber": 3,
+    "attackerSteam64Id": "76561198060898903",
+    "attackerTeamNumber": 2
+  },
+  {
+    "tick": 101751,
+    "round": 15,
+    "gameId": "32c50f03-b227-4395-9320-4118435cca67",
+    "traded": false,
+    "roundTime": 18,
+    "victimName": "Mazda_M8",
+    "attackerName": "SixSided-",
+    "attackerWeapon": {
+      "itemName": "AK-47",
+      "className": "weapon_ak47",
+      "itemValue": 2700
+    },
+    "victimSteam64Id": "76561198438829289",
+    "victimTeamNumber": 3,
+    "attackerSteam64Id": "76561198117400156",
+    "attackerTeamNumber": 2
+  },
+  {
+    "tick": 114235,
+    "round": 16,
+    "gameId": "32c50f03-b227-4395-9320-4118435cca67",
+    "traded": true,
+    "roundTime": 81,
+    "victimName": "Cloaks",
+    "attackerName": "Sorbear",
+    "attackerWeapon": {
+      "itemName": "M4A1-S",
+      "className": "weapon_m4a1_silencer",
+      "itemValue": 2900
+    },
+    "victimSteam64Id": "76561198060898903",
+    "victimTeamNumber": 2,
+    "attackerSteam64Id": "76561198025086296",
+    "attackerTeamNumber": 3
+  },
+  {
+    "tick": 122557,
+    "round": 17,
+    "gameId": "32c50f03-b227-4395-9320-4118435cca67",
+    "traded": false,
+    "roundTime": 51,
+    "victimName": "Cowpoke-JFK",
+    "attackerName": "Cloaks",
+    "attackerWeapon": {
+      "itemName": "AK-47",
+      "className": "weapon_ak47",
+      "itemValue": 2700
+    },
+    "victimSteam64Id": "76561198082102779",
+    "victimTeamNumber": 3,
+    "attackerSteam64Id": "76561198060898903",
+    "attackerTeamNumber": 2
+  },
+  {
+    "tick": 126431,
+    "round": 18,
+    "gameId": "32c50f03-b227-4395-9320-4118435cca67",
+    "traded": false,
+    "roundTime": 24,
+    "victimName": "sNada",
+    "attackerName": "--Oak--",
+    "attackerWeapon": {
+      "itemName": "AK-47",
+      "className": "weapon_ak47",
+      "itemValue": 2700
+    },
+    "victimSteam64Id": "76561197974990601",
+    "victimTeamNumber": 3,
+    "attackerSteam64Id": "76561198106173845",
+    "attackerTeamNumber": 2
+  },
+  {
+    "tick": 135642,
+    "round": 19,
+    "gameId": "32c50f03-b227-4395-9320-4118435cca67",
+    "traded": false,
+    "roundTime": 36,
+    "victimName": "Cloaks",
+    "attackerName": "Sorbear",
+    "attackerWeapon": {
+      "itemName": "AK-47",
+      "className": "weapon_ak47",
+      "itemValue": 2700
+    },
+    "victimSteam64Id": "76561198060898903",
+    "victimTeamNumber": 2,
+    "attackerSteam64Id": "76561198025086296",
+    "attackerTeamNumber": 3
+  },
+  {
+    "tick": 145130,
+    "round": 20,
+    "gameId": "32c50f03-b227-4395-9320-4118435cca67",
+    "traded": false,
+    "roundTime": 37,
+    "victimName": "Cowpoke-JFK",
+    "attackerName": "_Yin",
+    "attackerWeapon": {
+      "itemName": "AK-47",
+      "className": "weapon_ak47",
+      "itemValue": 2700
+    },
+    "victimSteam64Id": "76561198082102779",
+    "victimTeamNumber": 3,
+    "attackerSteam64Id": "76561198354107422",
+    "attackerTeamNumber": 2
+  },
+  {
+    "tick": 150235,
+    "round": 21,
+    "gameId": "32c50f03-b227-4395-9320-4118435cca67",
+    "traded": true,
+    "roundTime": 24,
+    "victimName": "_Yin",
+    "attackerName": "sNada",
+    "attackerWeapon": {
+      "itemName": "M4A4",
+      "className": "weapon_m4a1",
+      "itemValue": 3100
+    },
+    "victimSteam64Id": "76561198354107422",
+    "victimTeamNumber": 2,
+    "attackerSteam64Id": "76561197974990601",
+    "attackerTeamNumber": 3
+  },
+  {
+    "tick": 156512,
+    "round": 22,
+    "gameId": "32c50f03-b227-4395-9320-4118435cca67",
+    "traded": true,
+    "roundTime": 19,
+    "victimName": "Cloaks",
+    "attackerName": "Mazda_M8",
+    "attackerWeapon": {
+      "itemName": "M4A1-S",
+      "className": "weapon_m4a1_silencer",
+      "itemValue": 2900
+    },
+    "victimSteam64Id": "76561198060898903",
+    "victimTeamNumber": 2,
+    "attackerSteam64Id": "76561198438829289",
+    "attackerTeamNumber": 3
+  },
+  {
+    "tick": 164812,
+    "round": 23,
+    "gameId": "32c50f03-b227-4395-9320-4118435cca67",
+    "traded": false,
+    "roundTime": 42,
+    "victimName": "_Yin",
+    "attackerName": "Cowpoke-JFK",
+    "attackerWeapon": {
+      "itemName": "M4A1-S",
+      "className": "weapon_m4a1_silencer",
+      "itemValue": 2900
+    },
+    "victimSteam64Id": "76561198354107422",
+    "victimTeamNumber": 2,
+    "attackerSteam64Id": "76561198082102779",
+    "attackerTeamNumber": 3
+  },
+  {
+    "tick": 172544,
+    "round": 24,
+    "gameId": "32c50f03-b227-4395-9320-4118435cca67",
+    "traded": false,
+    "roundTime": 73,
+    "victimName": "spencer---",
+    "attackerName": "Cowpoke-JFK",
+    "attackerWeapon": {
+      "itemName": "M4A1-S",
+      "className": "weapon_m4a1_silencer",
+      "itemValue": 2900
+    },
+    "victimSteam64Id": "76561198042068875",
+    "victimTeamNumber": 2,
+    "attackerSteam64Id": "76561198082102779",
+    "attackerTeamNumber": 3
+  }
+]
